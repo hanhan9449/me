@@ -1,8 +1,8 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
+  "title": "GO HOME 👑",
+  "url": "https://www.haannn.top",
+  "domain": "haannn.top",
+  "description": "韩涵的个人网站，Node.js、前端、后端、rust爱好者",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me",
   "feed": {
@@ -16,10 +16,9 @@
     "url": "https://update-me.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Han Han"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Han Han"
   }
 }

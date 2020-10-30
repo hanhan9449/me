@@ -7,6 +7,8 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
-
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+1. 有个女朋友
+2. 成都大学在读
+3. 用typescript做一切
+4. Node.js、Javascript、rust、全栈爱好者
+5. 计划考研
