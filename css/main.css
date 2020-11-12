@@ -1,7 +1,7 @@
 /* Color customization */
 :root {
-  --primary: hsl(185, 51%, 46%);
-  --primary-dark: hsl(182, 47%, 36%);
+  --primary: hsl(327, 58%, 70%);
+  --primary-dark: hsl(300, 32%, 52%);
 }
 
 .test-dead-code-elimination-sentinel {

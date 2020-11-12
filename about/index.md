@@ -7,8 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-1. 有个女朋友
-2. 成都大学在读
-3. 用typescript做一切
-4. Node.js、Javascript、rust、全栈爱好者
-5. 计划考研
+这里是空空如也的自我介绍，下次一定写
